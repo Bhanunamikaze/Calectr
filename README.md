@@ -34,8 +34,8 @@ I’ve extended their work to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhanunamikaze/calectr.git
-   cd calectr
+   git clone https://github.com/Bhanunamikaze/Calectr.git
+   cd Calectr
    ```
 
 2. Set up a virtual environment:
